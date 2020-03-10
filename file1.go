@@ -1,8 +1,8 @@
 package main
 
-import("fmt")
-main(){
- func hello {
-   fmt.in
- }
+//package main is being used whenever we do try to build some executables
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!")
 }
