@@ -24,3 +24,7 @@
   ```
   Writing the Executable code tries to make use of the package main .
   Writing the reusable code doesnot do that .
+
+
+
+# The func main is being used here 
